@@ -27,37 +27,36 @@ h1 {
 h2 {
   font-size: 1.1em;
   margin-bottom: 20px;
-  color:#ccffff
-;
+  color:#ccffff;
 }
 
 
 li {
   list-style:  none;
   display: inline-block;
-  padding: 0 20px;
   color: black;
 }
 
 li a{
   color: black;
+  padding: 0 20px;
 }
 
 ul{
   text-align: center;
   background-color: white;
   color: black;
+  margin-bottom: 30px;
   /*padding: 20px;*/
 }
 
 nav {
   display: block;
-  backgroud-color: #0099cc;
+  background-color: white;
 }
 
-
 a:hover{
-  color: gray;
+  color: #ccccff;
 }
 
 header{
@@ -68,13 +67,12 @@ header{
 
 .container {
   width:100%;
-  max-width: 1150px;
   margin: 0 auto;
 
 }
 
 p{
   width: 80%;
-  max-width: 100px;
+  max-width: 1000px;
   min-width: 400px;
 }
