@@ -1,8 +1,20 @@
 * {
   margin: 0;
   padding: 0;
+  text-decoration: none;
 }
 
 body {
   background-color: #ff9100;
+  font: 1em/1.5 "Helevtica Neue", Helvetica, Arial, san-serif;
+  color: white;
+}
+
+h1 {
+  font-size: 1.6em;
+  font:
+}
+
+h2 {
+  font-size: 1.4em;
 }
