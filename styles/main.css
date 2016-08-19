@@ -4,17 +4,35 @@
   text-decoration: none;
 }
 
+
 body {
   background-color: #ff9100;
   font: 1em/1.5 "Helevtica Neue", Helvetica, Arial, san-serif;
   color: white;
+  max-width: 85%;
+  min-width: 500px;
+  margin: 100px
+
 }
 
 h1 {
   font-size: 1.6em;
-  font:
+  width: 100%;
+  display: block;
+  border: 1px solid red;
 }
 
 h2 {
   font-size: 1.4em;
+  margin-bottom: 20px;
+}
+
+li {
+  list-style-type:  none;
+}
+
+
+
+ul{
+  margin-bottom: 30px;
 }
