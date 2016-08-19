@@ -5,27 +5,23 @@
 }
 
 a:visited{
-  color:white;
+  color:black;
 }
 
 body {
   background-color: #ff9100;
   font: 1em/1.5 "Helevtica Neue", Helvetica, Arial, san-serif;
-  color: white;
+  /*color: white;*/
   max-width: 100%;
   /*min-width: 500px;*/
   /*margin: 100px*/
-  margin-left: 30px;
-  margin-right: 30px;
-
-
 }
 
 h1 {
   font-size: 2.3em;
   font-family: 'Lobster', cursive;  width: 100%;
   display: block;
-  color:#ccffff;
+  color: white;
 }
 
 h2 {
@@ -35,44 +31,37 @@ h2 {
 ;
 }
 
+
 li {
   list-style:  none;
   display: inline-block;
-  paddding: 20px;
+  padding: 0 20px;
+  color: black;
 }
 
-
+li a{
+  color: black;
+}
 
 ul{
-  margin-bottom: 30px;
   text-align: center;
-  padding: 20px;
-}
-
-blog-nav {
-  display: inline-block;
+  background-color: white;
   color: black;
-  text-align: center;
+  /*padding: 20px;*/
 }
 
 nav {
   display: block;
+  backgroud-color: #0099cc;
 }
 
-nav li{
-  display: inline-block;
-}
-
-nav a{
-  padding: 15px 10px;
-}
 
 a:hover{
   color: gray;
 }
 
 header{
-  /*background-color: gray;*/
+  background-color: gray;
   text-align: center;
   padding: 20px;
 }
@@ -82,4 +71,10 @@ header{
   max-width: 1150px;
   margin: 0 auto;
 
+}
+
+p{
+  width: 80%;
+  max-width: 100px;
+  min-width: 400px;
 }
