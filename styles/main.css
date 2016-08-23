@@ -101,3 +101,10 @@ img {
 .main-image{
   max-width:100%;
 }
+
+.image-box{
+  max-width: 100%;
+  background-image: url("/img/main.JPG");
+  background-repeat: no-repeat;
+  border: solid 1px red;
+}
