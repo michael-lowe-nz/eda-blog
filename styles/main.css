@@ -9,7 +9,7 @@ a:visited{
 }
 
 body {
-  background-color: #ff9100;
+  background-color: #CFCFCF;
   font: 1em/1.5 "Helevtica Neue", Helvetica, Arial, san-serif;
   /*color: white;*/
   max-width: 100%;
@@ -56,11 +56,11 @@ nav {
 }
 
 a:hover{
-  color: #ccccff;
+  color: #007FCF;
 }
 
 header{
-  background-color: gray;
+  background-color: #007FCF;
   text-align: center;
   padding: 20px;
 }
@@ -73,7 +73,14 @@ header{
 
 p{
   color: white;
-  width: 80%;
+  text-align:justify;
   max-width: 1000px;
-  min-width: 400px;
+}
+
+
+.content {
+  padding-left: 30px;
+  padding-right: 30px;
+  max-width: 100%;
+  min-with: 200px;
 }
