@@ -55,14 +55,14 @@ header{
 }
 
 h1 {
-  font-size: 3.0em;
+  font-size: 3.2em;
   font-family: 'Lobster', cursive;  width: 100%;
   display: block;
   color: white;
 }
 
 h2 {
-  font-size: 0.9em;
+  font-size: 1em;
   font-weight: 400;
   margin-bottom: 20px;
   color:#ff9100;
@@ -78,7 +78,7 @@ p{
   /*padding-top: 20px;
   padding-bottom: 20px;*/
   margin-bottom: 15px;
-  size: 0.6em;
+  size: 1em;
 }
 
 
