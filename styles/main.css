@@ -12,6 +12,8 @@ body {
   max-width: 100%;
   /*min-width: 500px;*/
   /*margin: 100px*/
+  background-image: url("../img/background-01.jpg");
+  background-attachment: fixed;
 }
 
 /******** NAV BAR *********/
@@ -53,14 +55,15 @@ header{
 }
 
 h1 {
-  font-size: 2.3em;
+  font-size: 3.0em;
   font-family: 'Lobster', cursive;  width: 100%;
   display: block;
   color: white;
 }
 
 h2 {
-  font-size: 0.8em;
+  font-size: 0.9em;
+  font-weight: 400;
   margin-bottom: 20px;
   color:#ff9100;
 }
@@ -75,6 +78,7 @@ p{
   /*padding-top: 20px;
   padding-bottom: 20px;*/
   margin-bottom: 15px;
+  size: 0.6em;
 }
 
 
@@ -86,10 +90,11 @@ p{
   min-width: 200px;
   background-color: white;
   color: #5C5C5C;
-  margin-left: 20px;
-  margin-right: 20px;
+  margin-left: 60px;
+  margin-right: 60px;
   margin-top: 20px;
   border-radius: 10px;
+  opacity: 0.8;
 }
 
 img {
@@ -112,5 +117,9 @@ img {
 }
 
 .link{
+  color: #ff9100;
+}
+
+.selected{
   color: #ff9100;
 }
