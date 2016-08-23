@@ -67,21 +67,21 @@ header{
 
 .container {
   width:100%;
-  margin: 0 auto;
+  /*margin: 0 auto;*/
 }
 
 p{
   text-align:justify;
-  max-width: 1000px;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  /*padding-top: 20px;
+  padding-bottom: 20px;*/
 }
 
 
 .content {
   padding-left: 30px;
   padding-right: 30px;
-  max-width: 100%;
+  padding-top: 20px;
+  padding-bottom: 20px;
   min-width: 200px;
   background-color: white;
   color: #5C5C5C;
