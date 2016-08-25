@@ -15,10 +15,22 @@ body {
   background-repeat: repeat;
 }
 
+.link{
+  color: #ff9100;
+}
+
+.selected{
+  color: #ff9100;
+}
+
+a:hover{
+  color: #007FCF;
+}
+
 /******** NAV BAR *********/
 li {
   list-style:  none;
-  display: inline;
+  display: inline-block;
   color: black;
   font-size: 0.8em;
 }
@@ -41,11 +53,6 @@ nav {
   background-color: white;
   opacity: 0.6;
 }
-
-a:hover{
-  color: #007FCF;
-}
-
 
 /******** HEADER *********/
 
@@ -73,10 +80,10 @@ h3 {
   color: #005c99
 }
 
-.container {
+/*.container {
   width:100%;
   margin: 0 auto;
-}
+}*/
 
 /******** BLOG ENTRIES *********/
 
@@ -85,7 +92,7 @@ h3 {
   padding-right: 30px;
   padding-top: 20px;
   padding-bottom: 20px;
-  min-width: 200px;
+  min-width: 300px;
   max-width: 1000px;
   background-color: white;
   color: #5C5C5C;
@@ -132,12 +139,4 @@ img {
   background-image: url("/img/main.JPG");
   background-repeat: no-repeat;
   border: solid 1px red;
-}
-
-.link{
-  color: #ff9100;
-}
-
-.selected{
-  color: #ff9100;
 }
