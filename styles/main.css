@@ -69,6 +69,10 @@ h2 {
   color:#ff9100;
 }
 
+h3 {
+  color: #005c99
+}
+
 .container {
   width:100%;
   margin: 0 auto;
@@ -82,10 +86,11 @@ h2 {
   padding-top: 20px;
   padding-bottom: 20px;
   min-width: 200px;
+  max-width: 1000px;
   background-color: white;
   color: #5C5C5C;
-  margin-left: 60px;
-  margin-right: 60px;
+  margin-left: auto;
+  margin-right: auto;
   margin-top: 20px;
   margin-bottom: 50px;
   border-radius: 10px;
