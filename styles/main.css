@@ -100,11 +100,20 @@ p{
   size: 1em;
 }
 
+/******** IMAGES *********/
+
 img {
   max-width: 100%;
   height: auto;
   display: block;
   margin: auto;
+}
+
+#semantic-image {
+  display: inline;
+  float: right;
+  margin: 10px;
+  padding: 10px;
 }
 
 .main-image{
