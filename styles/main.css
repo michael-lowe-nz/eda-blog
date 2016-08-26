@@ -62,7 +62,6 @@ header{
   background-color: #007FCF;
   text-align: center;
   padding: 10px;
-
 }
 
 h1 {
@@ -100,7 +99,7 @@ h3 {
   color: #5C5C5C;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 20px;
+  margin-top: 30px;
   margin-bottom: 50px;
   border-radius: 10px;
   opacity: 0.8;
