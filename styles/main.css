@@ -124,7 +124,7 @@ p{
   /*padding-top: 20px;
   padding-bottom: 20px;*/
   margin-bottom: 15px;
-  size: 1em;
+  size: 0.4em;
 }
 
 /******** IMAGES *********/
@@ -154,4 +154,37 @@ img {
   background-image: url("/img/main.JPG");
   background-repeat: no-repeat;
   border: solid 1px red;
+}
+
+/******** RESPONSIVE *********/
+
+@media screen and (max-width: 1100px){
+  .content{
+    margin-left: 45px;
+    margin-right: 45px;
+  }
+}
+
+@media screen and (max-width: 600px){
+  .content{
+    margin-right: 20px;
+    margin-left: 20px;
+  }
+}
+
+/******** BLOG POSTS *********/
+
+.blog-posts{
+  display: flex;
+}
+
+.blog-entries{
+  font-size: 1.8em;
+}
+
+.blog-entries a{
+  background-color: #007FCF;
+  border-radius: 7px;
+  color: white;
+  /*opacity: 0.5;*/
 }
