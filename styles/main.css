@@ -3,17 +3,18 @@
   margin: 0;
   padding: 0;
   text-decoration: none;
+  font-family: 'Raleway', sans-serif;
+  font-weight: lighter;
+
 }
 
 body {
   background-color: #CFCFCF;
   /*font: 1em/1.5 "Helevtica Neue", Helvetica, Arial, san-serif;*/
-  font-family: 'Raleway', sans-serif;
-  font-weight: lighter;
   background-image: url("../img/background-01.jpg");
   background-attachment: fixed;
   background-position: center;
-  background-repeat: repeat;
+  background-repeat: no-repeat;
 }
 
 .link{
@@ -33,12 +34,12 @@ li {
   list-style:  none;
   display: inline-block;
   color: black;
-  font-size: 0.8em;
+  font-size: 1em;
 }
 
 li a{
   color: gray;
-  padding: 20px 20px;
+  padding: 0 20px;
   font-size: 1.2em;
 }
 
@@ -98,7 +99,7 @@ h3 {
   min-width: 300px;
   max-width: 800px;
   background-color: white;
-  color: #5C5C5C;
+  /*color: #5C5C5C;*/
   margin-left: auto;
   margin-right: auto;
   margin-top: 30px;
