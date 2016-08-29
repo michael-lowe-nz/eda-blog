@@ -7,7 +7,8 @@
 
 body {
   background-color: #CFCFCF;
-  font: 1em/1.5 "Helevtica Neue", Helvetica, Arial, san-serif;
+  /*font: 1em/1.5 "Helevtica Neue", Helvetica, Arial, san-serif;*/
+  font-family: 'Raleway', sans-serif;
   font-weight: lighter;
   background-image: url("../img/background-01.jpg");
   background-attachment: fixed;
@@ -37,7 +38,7 @@ li {
 
 li a{
   color: gray;
-  padding: 0 20px;
+  padding: 20px 20px;
   font-size: 1.2em;
 }
 
@@ -67,6 +68,7 @@ header{
 h1 {
   font-size: 3.2em;
   font-family: 'Lobster', cursive;  width: 100%;
+  /*font-family: 'Raleway', sans-serif;*/
   color: white;
 }
 
@@ -125,6 +127,7 @@ p{
   padding-bottom: 20px;*/
   margin-bottom: 15px;
   size: 0.4em;
+  line-height: 200%;
 }
 
 /******** IMAGES *********/
@@ -186,5 +189,12 @@ img {
   background-color: #007FCF;
   border-radius: 7px;
   color: white;
+  display: inline-block;
+  padding: 30px;
+  margin: 20px;
   /*opacity: 0.5;*/
+}
+
+.blog-entires a:hover{
+  background-color: white;
 }
