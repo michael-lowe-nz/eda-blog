@@ -1,3 +1,13 @@
+/** BASE **/
+.page-wrapper{
+  margin: 0 auto;
+  width: 1200px;
+}
+
+img {
+  max-width: 100%;
+}
+
 /** HEADER **/
 
 .header{
@@ -17,7 +27,6 @@
 #main-logo{
   margin-bottom: 0;
   padding-bottom: 20px;
-  size: 3rem;
 }
 
 #sub-logo{
@@ -45,12 +54,14 @@
   text-decoration: none;
 }
 
-.social li{
-  display: inline-block;
-}
+
 
 /** SOCIAL **/
 .social-list {
   float: right;
   margin: 10px 20px;
+}
+
+.social li{
+  display: inline-block;
 }
