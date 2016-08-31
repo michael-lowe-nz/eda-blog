@@ -81,21 +81,33 @@ img {
   height: auto;
   margin-top: 100px;
   border-top: solid 1px gray;
+  padding-top: 30px;
 }
 
-.footer-social{
-  margin-top: 30px;
-}
 
-.footer-nav{
-  margin-top: 30px;
+.footer-nav li a{
   text-decoration: none;
 }
 
+ul {
+  display: inline-block;
+}
+
+.footer-nav{
+  padding: 0 60px;
+}
+
+
 .footer-social li{
   list-style-type: none;
+  display: inline-block;
 }
 
 .footer-nav li{
   list-style-type: none;
+  color: white;
+}
+
+.twelve li {
+  display: inline-block;
 }
