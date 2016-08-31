@@ -116,6 +116,23 @@ ul {
   padding-top: 30px;
 }
 
-.wireframe-images{
-  height: 180.95
+#index-mobile,
+#index-desktop,
+#blog-page-mobile,
+#blog-page-desktop{
+  position: relative;
+}
+
+.img-caption{
+  position: absolute;
+  color: white;
+  background-color: black;
+  opacity: 0.75;
+  bottom: -10px;
+  width: 100%;
+  text-align: center;
+}
+
+.blog-header {
+  color:#007FCF;
 }

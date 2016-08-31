@@ -32,7 +32,7 @@
    <div class="container">
      <div class="row">
        <!-- <div class="six columns"> -->
-         <h3>Technical Blog 3</h3>
+         <h3 class="blog-header">Technical Blog 3</h3>
          <h5>Design to Web Blog</h5>
          <h6><b>Talking to a non-tech friend...</b></h6>
          <p>A responive site is one that will change itself for different screen sizes. It is one single site that can adapt to any device that the user may be using. I would encourage you next time you are looking at a site on a computer, to drag and resize the browser, and see the magic that happens!</p>
@@ -48,10 +48,24 @@
        <!-- </div> -->
      </div>
      <div class="row">
-       <div class="three columns wireframe-images"><img src="../img/wireframe-index-mobile.JPG" alt="img"></img></div>
-       <div class="three columns wireframe-images"><img src="../img/wireframe-index-desktop.JPG" alt="img"></img></div>
-       <div class="three columns wireframe-images"><img src="../img/wireframe-blog-page-desktop.JPG" alt="img"></img></div>
-       <div class="three columns wireframe-images"><img src="../img/wireframe-blog-page-mobile.JPG" alt="img"></img></div>
+       <div class="three columns wireframe-images" id="index-mobile">
+         <img src="../img/wireframe-index-mobile.JPG" alt="img"></img><p class="img-caption"> Index Mobile Wireframe</p>
+       </div>
+       <div class="three columns wireframe-images" id="index-desktop">
+         <img src="../img/wireframe-index-desktop.JPG" alt="img"></img><p class="img-caption"> Index Desktop Wireframe</p>
+       </div>
+       <div class="three columns wireframe-images" id="blog-page-desktop">
+         <img src="../img/wireframe-blog-page-desktop.JPG" alt="img"></img><p class="img-caption"> Blog Page Desktop Wireframe</p>
+       </div>
+       <div class="three columns wireframe-images" id="blog-page-mobile"><img src="../img/wireframe-blog-page-mobile.JPG" alt="img"></img><p class="img-caption"> Blog Page Mobile Wireframe</p></div>
+     </div>
+
+     <div class="row">
+         <h6><b>Hardest features of wireframe to implement</b></h6>
+         <p>I found the navbar really hard to implement. I find it very confusing working with unordered lists and their nesting. It is hard to know which level of the element to target for which purpose. I always seem to be trialing and erroring putting inline block in all types of selectors to get my buttons to go on the side of each other rather than on top of each other. I also wasn't too sure where the skeleton framework fit in with it. Am I meant to make it a row and float the different parts left and right? Or do I make it multiple columns with some of the columns being empty placeholders? </p>
+         <p>The other thing I struggled with in implementing my wireframes was the footer. It is annoying when there isn't enough content on the page and the footer will detach from the bottom. A quick google search reveals that this is an age old problem though with multiple fixes, though these are scaring me a bit currently so have just chosen to leave it for the time being until I am more knowledgeable/skillful with my CSS wizardry.
+
+       <!-- </div> -->
      </div>
    </div>
  </div>
