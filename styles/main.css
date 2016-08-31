@@ -110,6 +110,8 @@ ul {
   color: white;
 }
 
-.twelve li {
-  display: inline-block;
+/** BLOG TEMPLATE PAGE **/
+
+.blog-content{
+  padding-top: 30px;
 }
