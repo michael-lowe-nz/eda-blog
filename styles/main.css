@@ -69,9 +69,22 @@ img {
 }
 
 /** BLOG-POSTS **/
-
 .blog-row{
-  margin-bottom: 20px;
+  margin-bottom: 40px;
+}
+.blog-button-header{
+  width: 100%;
+  height: 100%;
+  background-image: url(../img/background-01.jpg);
+  background-position: left;
+  padding: 10px;
+  padding-botto: 20px;
+  color: white;
+}
+
+.test a{
+  text-decoration: none;
+  color: white;
 }
 
 /*****************
@@ -135,4 +148,8 @@ ul {
 
 .blog-header {
   color:#007FCF;
+}
+
+.test{
+  height: 100px;
 }
