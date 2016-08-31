@@ -76,10 +76,14 @@ img {
   width: 100%;
   height: 100%;
   background-image: url(../img/background-01.jpg);
-  background-position: left;
+  /*background: linear-gradient(to bottom, rgba(0,127,207,0.52) 0%,rgba(6,127,206,0.52) 5%,rgba(100,135,185,1) 91%,rgba(109,136,183,1) 99%);*/
+  /*background: linear-gradient(to bottom, #b8c6df 0%,#6d88b7 100%);  background-position: left;*/
   padding: 10px;
-  padding-botto: 20px;
   color: white;
+}
+
+.blog-button-header:hover{
+  color: #d9d9d9;
 }
 
 .test a{
