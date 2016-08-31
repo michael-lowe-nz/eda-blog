@@ -1,8 +1,5 @@
 /** BASE **/
-.page-wrapper{
-  margin: 0 auto;
-  width: 960px;
-}
+
 
 img {
   max-width: 100%;
@@ -24,8 +21,9 @@ img {
 }
 
 #main-logo{
-  margin-bottom: 0;
-  padding-bottom: 20px;
+  margin-top: 20px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
 }
 
 #sub-logo{
@@ -36,8 +34,9 @@ img {
 /** NAV BAR **/
 .nav-bar{
   list-style-type: none;
-  margin-top: 30px;
+  margin-top: 20px;
   margin-bottom: 0;
+  text-align: center;
 }
 
 .nav-bar li{
@@ -60,10 +59,26 @@ img {
 .social-list {
   float: right;
   margin: 10px 20px;
+  padding-right: 30px;
 }
 
 .social li{
   display: inline-block;
 }
 
-/** SOCIAL **/
+/** BLOG **/
+
+.blog-row{
+  margin-bottom: 20px;
+}
+
+/*****************
+******FOOTER*******
+******************/
+
+.footer{
+  background-color: #d9d9d9;
+  height: 300px;
+  margin-top: 100px;
+  border-top: solid 1px gray;
+}
