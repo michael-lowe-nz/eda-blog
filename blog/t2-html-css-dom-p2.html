@@ -1,59 +1,84 @@
 <!DOCTYPE html>
-<html lang="en">
-  <head>
-    <title>Michael Lowe</title>
-    <meta charset="UTF-8">
-    <link href="../styles/main.css" rel="stylesheet" type="text/css">
-    <link href="https://fonts.googleapis.com/css?family=Lobster%7C.Raleway" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
-  </head>
+<html>
+<head>
+  <title>Michael Lowe</title>
+  <meta charset="UTF-8">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.3/normalize.css" rel="stylesheet" type="text/css">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/skeleton/2.0.4/skeleton.css" rel="stylesheet" type="text/css">
+  <link href="../styles/main.css" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+  <meta name="viewport" content="width=device-width">
 
-  <body>
-    <header>
-      <a href="../index.html">
-        <h1>Michael Lowe</h1>
-        <h2>Enspiral DevAcademy Student, Barista, NBA Enthusiast </h2>
-      </a>
-    </header>
-    <nav class="container">
-      <ul>
-        <li><a href="../index.html">Home</a></li>
-        <li><a href="c1-time-and-habits-blog.html">Time and Habits</a></li>
-        <li><a href="c1-reflection-blog.html">Reflection</a></li>
-        <li><a href="t2-html-css-dom-p1.html">CSS, HTML and DOM</a></li>
-        <li><a href="t2-html-css-dom-p2.html" class="selected">CSS, HTML and DOM 2</a></li>
-        <li><a href="c2-emotional-intelligence.html">Emotional Intelligence</a></li>
-      </ul>
-    </nav>
-    <!-- <div class="main-image">
-      <img src="../img/main.JPG" alt="scenic sky" id="sky-photo">
-    </div> -->
-    <div class="content">
-      <h3>HTML, CSS and DOM</h3>
-      <section id="WishList">
-        <h4>Grid Based Design</h4>
-        <p>
-          Grid based design is where your whole website can be divided into a grid, where different box elements take up different dimensions of the grid. Therefore a column can be a 3 square wide box on the grid, or 5 squares wide etc. This allows us to easily set up a row and column framework where we can effectively layout websites.
-        </p>
-        <h4>Responsive Webpages</h4>
-        <p>
-          Responsive web design is an essential part of being a web developer. The idea of responsivenss is that webpages aren't just built for one screen size or resolution, they are built to respond to how big the screen size is, which depends on the device that the user is viewing on.
-        </p>
-        <p>
-          What I find really interesting about responsive design is that it allows for <b>any</b> screen size, even if there aren't any devices with that particular screen size yet. Instead of making sites that look good and function on say a desktop and an iPhone, responsive design ensures that a huge variety of resolutions will work, so the look and functionality of a webpage is future proofed for devices that aren't currently on the market.
-        </p>
-        <P>
-          Responive design allows a webpage to look good, function well and be easy to use across everything from the smallest smartphones, to big computer monitors, with all the various sizes of tablets in between. And this can all happen with just a few lines of code!
-        </p>
-        <h4>Semantic Structure</h4>
-        <img src="http://www.w3schools.com/html/img_sem_elements.gif" alt=semantic id="semantic-image">
-        <p>
-          Semantic structure is how we lay out our HTML so that both our browser and developers can undestand it. It is the difference between having a whole lot of HTML just in plain text, and having an organised HTML structure with headers and sections and divs.
-        </p>
+</head>
 
-
-
-      </section>
+<body>
+  <div class="section">
+    <div class="header row">
+      <div class="container">
+        <div class="two-thirds column"id="logo">
+          <a class="header" href="../index.html"><h1 id="main-logo">michael lowe EDA</h1></a>
+        </div>
+        <div class="one-third column">
+            <ul class="nav-bar">
+              <li><a href="../index.html">Home</a></li>
+              <li><a href="../index.html">About</a></li>
+              <li><a href="../index.html">Contact</a></li>
+            </ul>
+        </div>
+      </div>
     </div>
-  </body>
+  </div> <!--END OF NAV AND LOGO SECTION AND DIV -->
+
+
+  <div class="section blog-content">
+   <div class="container">
+     <div class="row">
+       <!-- <div class="six columns"> -->
+         <h3 class="blog-header">HTML CSS DOM 1</h3>
+         <h4>Grid Based Design</h4>
+         <p>
+           Grid based design is where your whole website can be divided into a grid, where different box elements take up different dimensions of the grid. Therefore a column can be a 3 square wide box on the grid, or 5 squares wide etc. This allows us to easily set up a row and column framework where we can effectively layout websites.
+         </p>
+         <h4>Responsive Webpages</h4>
+         <p>
+           Responsive web design is an essential part of being a web developer. The idea of responsivenss is that webpages aren't just built for one screen size or resolution, they are built to respond to how big the screen size is, which depends on the device that the user is viewing on.
+         </p>
+         <p>
+           What I find really interesting about responsive design is that it allows for <b>any</b> screen size, even if there aren't any devices with that particular screen size yet. Instead of making sites that look good and function on say a desktop and an iPhone, responsive design ensures that a huge variety of resolutions will work, so the look and functionality of a webpage is future proofed for devices that aren't currently on the market.
+         </p>
+         <P>
+           Responive design allows a webpage to look good, function well and be easy to use across everything from the smallest smartphones, to big computer monitors, with all the various sizes of tablets in between. And this can all happen with just a few lines of code!
+         </p>
+         <h4>Semantic Structure</h4>
+         <img src="http://www.w3schools.com/html/img_sem_elements.gif" alt=semantic id="semantic-image">
+         <p>
+           Semantic structure is how we lay out our HTML so that both our browser and developers can undestand it. It is the difference between having a whole lot of HTML just in plain text, and having an organised HTML structure with headers and sections and divs.
+         </p>
+
+     </div>
+   </div>
+ </div> <!--END OF BLOG SECTION AND DIV-->
+
+
+  <div class="section footer">
+    <div class="container">
+      <div class="row">
+        <div class="twelve columns">
+          <ul class="footer-social">
+            <li class="nav-social"><a href="index.html"><img src="../img/footer/github.png" alt="github"></a></li>
+            <li class="nav-social"><a href="index.html"><img src="../img/footer/facebook.png" alt="facebook"></a></li>
+            <li class="nav-social"><a href="index.html"><img src="../img/footer/twitter.png" alt="facebook"></a></li>
+          </ul>
+          <ul class="footer-nav">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="index.html">About</a></li>
+            <li><a href="index.html">Contact</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</body>
 </html>
