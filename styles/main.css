@@ -8,6 +8,7 @@ img {
   color: #50B9FA;
 }
 
+
 /** HEADER **/
 
 .header{
@@ -66,8 +67,7 @@ img {
   text-align: center;
   padding: 45px 0;
   box-shadow: 0px 3px 8px -1px rgba(117,117,117,1);
-  border-radius: 2px;
-
+  border-bottom-left-radius: 10px;
 }
 
 .blog-button-header:hover{
