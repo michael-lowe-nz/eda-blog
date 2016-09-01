@@ -134,6 +134,10 @@ body{
   text-align: center;
 }
 
+.img-caption:hover{
+  opacity: 1;
+}
+
 .blog-header {
   color:#007FCF;
 }
