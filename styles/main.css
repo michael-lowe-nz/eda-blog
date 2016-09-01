@@ -4,6 +4,10 @@ img {
   max-width: 100%;
 }
 
+.a:hover{
+  color: #50B9FA;
+}
+
 /** HEADER **/
 
 .header{
@@ -81,31 +85,24 @@ img {
 
 .footer{
   background-color: #B4E1FD;
-  height: auto;
-  margin-top: 100px;
-  border-top: solid 1px #50B9FA;
-  padding-top: 30px;
+  height: 140px;
+  margin-top: 70px;
+  /*border-top: solid 1px #50B9FA;*/
+  padding-top: 60px;
 }
 
-
-.footer-nav li a{
-  text-decoration: none;
+#footer-text{
+  color: #007FCF;
+  font-size: 16px;
+  text-align: center;
 }
-
-
-.footer-nav{
-  padding: 0 60px;
+.footer-social{
+  text-align: center;
 }
-
-
 .footer-social li{
   list-style-type: none;
   display: inline-block;
-}
-
-.footer-nav li{
-  list-style-type: none;
-  color: white;
+  padding: 0 14px;
 }
 
 /** BLOG TEMPLATE PAGE **/
