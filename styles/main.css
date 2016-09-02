@@ -4,7 +4,7 @@ img {
     max-width: 100%;
 }
 
-.a:hover {
+a:hover {
     color: #50B9FA;
 }
 
@@ -60,6 +60,10 @@ body {
 .nav-bar li a {
     text-decoration: none;
     color: #007FCF;
+}
+
+.nav-bar li a:hover{
+  color:#50B9FA;
 }
 
 
