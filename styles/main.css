@@ -81,7 +81,7 @@ body {
 
 .blog-button-header:hover {
     color: #50B9FA;
-    background-color: #FAFAFA;
+    background-color: white;
 }
 
 .index-blog-posts {
@@ -122,6 +122,7 @@ body {
 
 .blog-content {
     padding-top: 30px;
+    font-family: 'Catamaran', sans-serif;
 }
 
 #index-mobile, #index-desktop, #blog-page-mobile, #blog-page-desktop {
