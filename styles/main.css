@@ -187,3 +187,24 @@ h4 {
 
 
 }
+
+/** ABOUT PAGE **/
+
+#about-1 {
+  background-image: url("../img/js-logo.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 500px;
+}
+#about-2 {
+  background-image: url("../img/ml-logo.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 500px;
+}
+#about-3 {
+  background-image: url("../img/boy-logo.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 500px;
+}
