@@ -12,6 +12,10 @@ body {
     background-color: #f1f1f1;
 }
 
+h4 {
+  color: #32548A;
+}
+
 
 /** HEADER **/
 .header {
@@ -20,7 +24,12 @@ body {
     box-shadow: 0px 3px 8px -1px rgba(117, 117, 117, 1);
     width: 100%;
     background-color: white;
+    position:fixed;
+    margin: 0 auto;
+    top: 0px;
+    z-index: 1;
 }
+
 
 .header-main{
   text-decoration: none;
@@ -66,7 +75,11 @@ body {
 /** BLOG-POSTS **/
 
 .blogs {
-    margin-top: 40px;
+    margin-top: 100px;
+}
+
+.blog-content {
+  margin-top: 50px;
 }
 
 .blog-button-header {
