@@ -53,28 +53,35 @@
 	</g>
 	<polyline opacity="0.1" fill="#FFFFFF" enable-background="new    " points="442.337,33.454 258.94,135.817 442.337,135.817 	"/>
 	<g>
-		<rect x="548.381" y="90.566" fill="#FFFFFF" width="48.999" height="68.263"/>
-		<rect x="552.496" y="94.307" fill="#E2E3E4" width="40.771" height="9.725"/>
-		<rect x="552.496" y="106.183" fill="#E2E3E4" width="12.53" height="46.662"/>
-		<rect x="567.271" y="106.183" fill="#E2E3E4" width="25.995" height="4.957"/>
-		<rect x="567.271" y="113.384" fill="#E2E3E4" width="25.995" height="8.789"/>
-		<rect x="567.271" y="123.856" fill="#E2E3E4" width="25.995" height="28.988"/>
-		<polyline opacity="0.1" fill="#231F20" enable-background="new    " points="597.381,90.566 548.381,158.83 597.381,158.83 		"/>
+		
+			<rect x="515.382" y="68.508" transform="matrix(-0.9689 0.2474 -0.2474 -0.9689 1111.3334 93.288)" fill="#FFFFFF" width="68.848" height="95.915"/>
+		
+			<rect x="512.29" y="74.879" transform="matrix(-0.9689 0.2474 -0.2474 -0.9689 1085.2659 27.056)" fill="#E2E3E4" width="57.286" height="13.665"/>
+		
+			<rect x="523.454" y="95.148" transform="matrix(-0.9689 0.2474 -0.2474 -0.9689 1079.6196 120.2164)" fill="#E2E3E4" width="17.607" height="65.563"/>
+		
+			<rect x="536.026" y="88.583" transform="matrix(-0.9689 0.2474 -0.2474 -0.9689 1114.1246 44.1431)" fill="#E2E3E4" width="36.526" height="6.964"/>
+		
+			<rect x="539.196" y="98.303" transform="matrix(-0.9689 0.2474 -0.2474 -0.9689 1123.4353 67.7936)" fill="#E2E3E4" width="36.525" height="12.349"/>
+		
+			<rect x="546.346" y="112.119" transform="matrix(-0.9689 0.2474 -0.2474 -0.9689 1144.4434 121.1574)" fill="#E2E3E4" width="36.526" height="40.731"/>
+		<polyline opacity="0.1" fill="#231F20" enable-background="new    " points="571.297,61.482 528.316,171.45 595.026,154.416 		"/>
 	</g>
-	<rect x="606.381" y="90.566" fill="#FFFFFF" width="48.999" height="68.263"/>
-	<rect x="610.496" y="94.307" fill="#E2E3E4" width="40.771" height="9.725"/>
-	<rect x="610.496" y="106.183" fill="#E2E3E4" width="12.53" height="46.662"/>
-	<rect x="625.271" y="106.183" fill="#E2E3E4" width="25.995" height="1.877"/>
-	<rect x="625.271" y="111.811" fill="#E2E3E4" width="25.995" height="1.572"/>
-	<rect x="625.271" y="114.31" fill="#E2E3E4" width="25.995" height="1.572"/>
-	<rect x="625.271" y="116.992" fill="#E2E3E4" width="25.995" height="1.572"/>
-	<rect x="625.271" y="119.117" fill="#E2E3E4" width="25.995" height="1.572"/>
-	<rect x="625.271" y="121.388" fill="#E2E3E4" width="25.995" height="1.572"/>
-	<rect x="625.271" y="108.936" fill="#E2E3E4" width="25.995" height="1.572"/>
-	<rect x="639.506" y="124.698" fill="#E2E3E4" width="11.76" height="28.146"/>
-	<rect x="625.271" y="124.698" fill="#E2E3E4" width="11.76" height="28.146"/>
-	<polyline opacity="0.1" fill="#231F20" enable-background="new    " points="655.381,90.566 606.381,158.83 655.381,158.83 	"/>
-	<text transform="matrix(1 0 0 1 553.3809 101.9346)" fill="#237EC2" font-family="'Helvetica-Bold'" font-size="8">HTML</text>
-	<text transform="matrix(1 0 0 1 612.3809 101.3096)" fill="#237EC2" font-family="'Helvetica-Bold'" font-size="8">CSS</text>
+	<rect x="599.023" y="41.423" fill="#FFFFFF" width="70.549" height="98.285"/>
+	<rect x="604.949" y="46.809" fill="#E2E3E4" width="58.701" height="14.002"/>
+	<rect x="604.949" y="63.907" fill="#E2E3E4" width="18.041" height="67.185"/>
+	<rect x="626.221" y="63.907" fill="#E2E3E4" width="37.428" height="2.703"/>
+	<rect x="626.221" y="72.011" fill="#E2E3E4" width="37.428" height="2.264"/>
+	<rect x="626.221" y="75.608" fill="#E2E3E4" width="37.428" height="2.264"/>
+	<rect x="626.221" y="79.472" fill="#E2E3E4" width="37.428" height="2.264"/>
+	<rect x="626.221" y="82.531" fill="#E2E3E4" width="37.428" height="2.264"/>
+	<rect x="626.221" y="85.8" fill="#E2E3E4" width="37.428" height="2.264"/>
+	<rect x="626.221" y="67.871" fill="#E2E3E4" width="37.428" height="2.264"/>
+	<rect x="646.717" y="90.566" fill="#E2E3E4" width="16.932" height="40.525"/>
+	<rect x="626.221" y="90.566" fill="#E2E3E4" width="16.932" height="40.525"/>
+	<polyline opacity="0.1" fill="#231F20" enable-background="new    " points="669.574,41.423 599.023,139.71 669.574,139.71 	"/>
+	
+		<text transform="matrix(0.9689 -0.2474 0.2474 0.9689 524.3447 92.2539)" fill="#237EC2" font-family="'Helvetica-Bold'" font-size="11.2407">HTML</text>
+	<text transform="matrix(1 0 0 1 607.6631 56.8916)" fill="#237EC2" font-family="'Helvetica-Bold'" font-size="11.5184">CSS</text>
 </g>
 </svg>
