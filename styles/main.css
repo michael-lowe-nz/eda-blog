@@ -82,21 +82,21 @@ h4 {
   margin-top: 50px;
 }
 
-.blog-button-header {
-    color: white;
+.blog-button-header { /**These area the cards on index.html **/
+    color: #007fcf;
     /*border: solid 1px #007FCF;*/
     text-align: center;
-    padding: 90px 0;
+    padding: 80px 0;
     box-shadow: 0px 3px 8px -1px rgba(117, 117, 117, 1);
-    background-color: #007FCF;
+    background-color: aliceblue;
     font-family: sans-serif;
     font-weight: 800;
 }
 
 
 .blog-button-header:hover {
-    /*color: black;*/
-    background-color: #5AB0E6;
+    color: white;
+    background-color: #007FCF;
 }
 
 .index-blog-posts {
