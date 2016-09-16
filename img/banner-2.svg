@@ -1,36 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="700px" height="192.869px" viewBox="0 0 700 192.869" enable-background="new 0 0 700 192.869" xml:space="preserve">
-<rect x="-1" fill="#237EC2" width="701.167" height="193.369"/>
-<ellipse opacity="0.1" fill="#FFFFFF" cx="495.334" cy="132.185" rx="122.75" ry="8.375"/>
-<g>
-	<path fill="#D8D9DA" d="M589.502,130.185c0,1.1-0.9,2-2,2H401.168c-1.101,0-2-0.9-2-2v-3.917c0-1.1,0.899-2,2-2h186.334
-		c1.1,0,2,0.9,2,2V130.185z"/>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="700px"
+	 height="192.869px" viewBox="0 0 700 192.869" enable-background="new 0 0 700 192.869" xml:space="preserve">
+<g id="Layer_2">
+	<rect fill="#237EC2" width="700" height="192.869"/>
 </g>
-<rect x="573.896" y="126.966" fill="#888A8C" width="8.438" height="0.938"/>
-<rect x="482.084" y="123.886" fill="#E6E7E8" width="26.5" height="4.018"/>
-<g>
-	<path fill="#80D2E8" d="M570.348,118.935c0,1.65-1.35,3-3,3h-143c-1.65,0-3-1.35-3-3v-79c0-1.65,1.35-3,3-3h143c1.65,0,3,1.35,3,3
-		V118.935z"/>
-	<path fill="none" stroke="#000000" stroke-width="5" stroke-miterlimit="10" d="M570.348,118.935c0,1.65-1.35,3-3,3h-143
-		c-1.65,0-3-1.35-3-3v-79c0-1.65,1.35-3,3-3h143c1.65,0,3,1.35,3,3V118.935z"/>
-</g>
-<circle fill="#FFFFFF" cx="495.334" cy="36.935" r="0.514"/>
-<rect x="160.833" y="35.851" fill="#FFFFFF" width="87.333" height="121.668"/>
-<rect x="168.167" y="42.518" fill="#E2E3E4" width="72.667" height="17.334"/>
-<rect x="168.167" y="63.684" fill="#E2E3E4" width="22.333" height="83.167"/>
-<rect x="194.5" y="63.684" fill="#E2E3E4" width="46.333" height="8.834"/>
-<rect x="194.5" y="76.518" fill="#E2E3E4" width="46.333" height="15.667"/>
-<rect x="194.5" y="95.185" fill="#E2E3E4" width="46.333" height="51.667"/>
-<polyline opacity="0.1" fill="#231F20" points="248.167,35.851 160.833,157.519 248.167,157.519 "/>
-<g id="Arrow_26">
-	<rect x="299.515" y="71.185" fill="none" width="73.069" height="42"/>
+<g id="Layer_1">
+	<rect x="160.833" y="35.424" fill="#FFFFFF" width="87.333" height="121.667"/>
+	<rect x="168.167" y="42.091" fill="#E2E3E4" width="72.667" height="17.334"/>
+	<rect x="168.167" y="63.257" fill="#E2E3E4" width="22.333" height="83.167"/>
+	<rect x="194.5" y="63.257" fill="#E2E3E4" width="46.333" height="8.834"/>
+	<rect x="194.5" y="76.091" fill="#E2E3E4" width="46.333" height="15.667"/>
+	<rect x="194.5" y="94.758" fill="#E2E3E4" width="46.333" height="51.667"/>
+	<polyline opacity="0.1" fill="#231F20" enable-background="new    " points="248.167,35.424 160.833,157.092 248.167,157.092 	"/>
+	<g id="Arrow_26">
+		<rect x="299.515" y="84.017" fill="none" width="73.069" height="42"/>
+		<g>
+			<polygon fill="#FFFFFF" points="320.474,116.167 336.096,116.167 336.096,123.567 351.625,109.266 336.096,94.964 
+				336.096,102.367 320.474,102.367 			"/>
+		</g>
+	</g>
 	<g>
-		<polygon fill="#FFFFFF" points="320.474,103.335 336.096,103.335 336.096,110.736 351.625,96.434 336.096,82.132 336.096,89.535 
-			320.474,89.535 		"/>
+		<ellipse opacity="0.1" fill="#FFFFFF" enable-background="new    " cx="480.872" cy="147.28" rx="118.728" ry="8.1"/>
+		<g>
+			<path fill="#D8D9DA" d="M571.955,145.346c0,1.064-0.871,1.934-1.936,1.934H389.792c-1.064,0-1.935-0.869-1.935-1.934v-3.788
+				c0-1.064,0.87-1.936,1.935-1.936H570.02c1.064,0,1.936,0.871,1.936,1.936V145.346z"/>
+		</g>
+		<rect x="556.859" y="142.232" fill="#888A8C" width="8.162" height="0.907"/>
+		<rect x="468.057" y="139.253" fill="#E6E7E8" width="25.631" height="3.887"/>
+		<g>
+			<path fill="#80D2E8" d="M553.428,134.464c0,1.595-1.306,2.901-2.901,2.901H412.212c-1.596,0-2.902-1.307-2.902-2.901V58.053
+				c0-1.596,1.307-2.901,2.902-2.901h138.314c1.596,0,2.901,1.306,2.901,2.901V134.464z"/>
+			<path fill="none" stroke="#000000" stroke-width="5" stroke-miterlimit="10" d="M553.428,134.464
+				c0,1.595-1.306,2.901-2.901,2.901H412.212c-1.596,0-2.902-1.307-2.902-2.901V58.053c0-1.596,1.307-2.901,2.902-2.901h138.314
+				c1.596,0,2.901,1.306,2.901,2.901V134.464z"/>
+		</g>
+		<circle fill="#FFFFFF" cx="480.872" cy="55.151" r="0.498"/>
+		<polyline opacity="0.1" fill="#FFFFFF" enable-background="new    " points="550.673,57.407 412.037,134.787 550.673,134.787 		
+			"/>
 	</g>
 </g>
-<polyline opacity="0.1" fill="#FFFFFF" points="567.5,39.268 424.167,119.268 567.5,119.268 "/>
 </svg>
