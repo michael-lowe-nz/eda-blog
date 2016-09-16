@@ -83,18 +83,20 @@ h4 {
 }
 
 .blog-button-header {
-    color: #007FCF;
+    color: white;
     /*border: solid 1px #007FCF;*/
     text-align: center;
     padding: 90px 0;
     box-shadow: 0px 3px 8px -1px rgba(117, 117, 117, 1);
-    /*border-bottom-left-radius: 10px;*/
-    background-color: ghostwhite;
+    background-color: #007FCF;
+    font-family: sans-serif;
+    font-weight: 800;
 }
 
+
 .blog-button-header:hover {
-    color: #50B9FA;
-    background-color: white;
+    /*color: #007FCF;*/
+    background-color: #5AB0E6;
 }
 
 .index-blog-posts {
