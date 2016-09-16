@@ -185,6 +185,9 @@ h4 {
     .blog-button-header {
       padding: 50px 0;
     }
+    .blog-banner {
+      margin-top: 10px;
+    }
 }
 
 @media (max-width: 500px) {
