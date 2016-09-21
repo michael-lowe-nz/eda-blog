@@ -16,6 +16,9 @@ h4 {
   color: #32548A;
 }
 
+code {
+  background-color: white;
+}
 
 /** HEADER **/
 .header {
