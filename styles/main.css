@@ -20,6 +20,12 @@ code {
   background-color: white;
 }
 
+quote {
+  background-color: white;
+  font-size: 1.4em;
+  color: gray;
+}
+
 /** HEADER **/
 .header {
     color: #007FCF;
