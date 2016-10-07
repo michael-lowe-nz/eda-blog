@@ -1,4 +1,6 @@
+/**********/
 /** BASE **/
+/**********/
 
 img {
     max-width: 100%;
@@ -26,7 +28,10 @@ quote {
   color: gray;
 }
 
+/************/
 /** HEADER **/
+/************/
+
 .header {
     color: #007FCF;
     /*border-bottom: 1px solid gray;*/
@@ -55,9 +60,9 @@ quote {
     font-size: 2rem;
     text-decoration: none;
 }
-
+/*************/
 /** NAV BAR **/
-
+/*************/
 .nav-bar {
     list-style-type: none;
     margin-top: 20px;
@@ -80,9 +85,9 @@ quote {
   color:#50B9FA;
 }
 
-
-/** BLOG-POSTS **/
-
+/******************/
+/** BLOG-POSTS ****/
+/******************/
 .blogs {
     margin-top: 100px;
 }
@@ -120,7 +125,7 @@ quote {
 
 
 /*****************
-******FOOTER*******
+******FOOTER******
 ******************/
 
 .footer {
@@ -147,8 +152,9 @@ quote {
     padding: 0 14px;
 }
 
-
+/************************/
 /** BLOG TEMPLATE PAGE **/
+/************************/
 
 .blog-content {
     padding-top: 30px;
@@ -177,8 +183,9 @@ quote {
     color: #007FCF;
 }
 
-
+/******************/
 /** MEDIA QUERIES **/
+/******************/
 
 @media (max-width: 700px) {
     .header {
@@ -209,7 +216,9 @@ quote {
 
 }
 
-/** ABOUT PAGE **/
+/******************/
+/** ABOUT PAGE ****/
+/******************/
 
 #about-1 {
   background-image: url("../img/js-logo-1.svg");
@@ -233,8 +242,9 @@ quote {
 
 
 
-
+/******************/
 /** SOCIAL ICONS **/
+/******************/
 
 @font-face {
     font-family: 'si';
